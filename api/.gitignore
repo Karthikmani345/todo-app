@@ -1,0 +1,10 @@
+*/node_modules
+*/dist
+*/lib
+coverage/
+.nyc_output/
+.env
+.DS_Store
+*/.DS_Store
+/node_modules
+/dist

@@ -1,0 +1,11 @@
+[
+  {
+    "_id": {
+      "$oid": "5edcd666574ec89375a0bed6"
+    },
+    "name": "karthik mani",
+    "userName": "kmani",
+    "password": "1",
+    "picture": "http://localhost:8080/images/kartik_dp.PNG"
+  }
+]
